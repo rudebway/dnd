@@ -1,0 +1,296 @@
+{
+  "main": {
+    "id": "d051ff5c46cf6e0c",
+    "type": "split",
+    "children": [
+      {
+        "id": "d694850089247dad",
+        "type": "tabs",
+        "dimension": 48.831587429492345,
+        "children": [
+          {
+            "id": "8b572e79014b2f2b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Приключение/03.Черный рынок/Сокровища.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Сокровища"
+            }
+          },
+          {
+            "id": "f46a610a76b1ac02",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Приключение/03.Черный рынок/Сокровища.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Сокровища"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "decee7cd8b33f120",
+        "type": "tabs",
+        "dimension": 51.16841257050766,
+        "children": [
+          {
+            "id": "6140179238d49343",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Приключение/03.Черный рынок/3. Южная крепость.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3. Южная крепость"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b6a0e717dd9d7105",
+    "type": "split",
+    "children": [
+      {
+        "id": "c038d8f06c10c96c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7f4d8fdaf667f13d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "bc85bfe1b02a601c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "f93edc9fc0d7f7f5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 226.5
+  },
+  "right": {
+    "id": "872a795457e2cf22",
+    "type": "split",
+    "children": [
+      {
+        "id": "642f3e6621c8e8e4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4ff14b97d210e3c1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Приключение/Большие поиски/6. События Времен.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 6. События Времен"
+            }
+          },
+          {
+            "id": "425b98d628ed8a03",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "ae7fc5482dbd8178",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a3a8cac107af7d7b",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "6bb6cba2a5bf62b1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          },
+          {
+            "id": "37babba683bd220e",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "DICE_ROLLER_VIEW"
+            }
+          },
+          {
+            "id": "a67c2d1c421e8c84",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "DICE_ROLLER_VIEW"
+            }
+          },
+          {
+            "id": "0845a14af6963144",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "f46a610a76b1ac02",
+  "lastOpenFiles": [
+    "Приключение/03.Черный рынок/Товары.md",
+    "Приключение/03.Черный рынок/Сокровища.md",
+    "Приключение/03.Черный рынок/1. Рынок.md",
+    "Приключение/03.Черный рынок/3. Южная крепость.md",
+    "Приключение/02.Гриб/Товары.md",
+    "Приключение/02.Гриб/Сокровища.md",
+    "Приключение/03.Черный рынок/2. Лысый Эл.md",
+    "Приключение/03.Черный рынок/Грибы.md",
+    "Приключение/02.Гриб/2. Башня магов.md",
+    "Приключение/02.Гриб/3. Основание гриба.md",
+    "Герои/Арти.md",
+    "Приключение/03.Черный рынок",
+    "Приключение/02.Гриб/Запаска.md",
+    "Приключение/02.Гриб/6. Террор.md",
+    "Приключение/02.Гриб/5. Мост.md",
+    "Приключение/02.Гриб/4. Гриб внутри.md",
+    "Приключение/02.Гриб/1. Тэш.md",
+    "Приключение/02.Гриб",
+    "Приключение/01.Большие поиски/Сокровища.md",
+    "Приключение/01.Большие поиски/Карта событий.canvas",
+    "Приключение/01.Большие поиски/6. События Времен.md",
+    "Приключение/01.Большие поиски/5. Церковь.md",
+    "Приключение/01.Большие поиски/4. Кладбище.md",
+    "Приключение/01.Большие поиски/3. Белые Соты.md",
+    "Приключение/01.Большие поиски/2. Крепость Зентил.md",
+    "Приключение/01.Большие поиски/1. Флан.md",
+    "Приключение/01.Большие поиски",
+    "Приключение/Гриб/6. Террор.md",
+    "Герои/Разиэль.md",
+    "Герои/Селадриен.md",
+    "Приключение/Большие поиски/Карта событий.canvas",
+    "Герои",
+    "Приключение/Ливень",
+    "Приключение/Гриб",
+    "Приключение/Путь в Кормир",
+    "Приключение",
+    "Untitled.base",
+    "Untitled.canvas",
+    "Untitled/Untitled.base",
+    "Untitled 1/2025-10-28 09.17.45.jpg"
+  ]
+}
